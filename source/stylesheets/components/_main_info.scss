@@ -1,0 +1,51 @@
+.info{
+  padding: 0 50px;
+  height: 50vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: white;
+}
+
+.main-info{
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  h4, h6, p{
+    color: black;
+  }
+  .user-info{
+    padding: 5px;
+  }
+
+  .flat-info{
+    padding: 5px;
+
+    h4{
+      margin: 2px auto;
+      font-weight: bold;
+    }
+
+    h6{
+      margin: 5px 0;
+    }
+
+    p{
+      font-size: 16px;
+    }
+  }
+}
+
+.form-info{
+  width: 350px;
+  height: 70%;
+  color: black;
+  background-color: #F4F4F4;
+  padding: 10px 20px;
+
+  .form-group{
+    margin-bottom: 15px;
+  }
+}
+

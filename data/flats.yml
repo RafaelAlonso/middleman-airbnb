@@ -1,0 +1,24 @@
+ssaunier:
+  name: "Sebastien's home"
+  image: "https://kitt.lewagon.com/placeholder/cities/paris"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+papillard:
+  name: "Boris' home"
+  image: "https://kitt.lewagon.com/placeholder/cities/tokyo"
+  description: Small flat in Tokyo
+  city_name: "Paris, France"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+monsieurpaillard:
+  name: Romain's home
+  image: "https://kitt.lewagon.com/placeholder/cities/london"
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
